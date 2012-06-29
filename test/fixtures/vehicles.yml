@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  number: MyString
+  mileage: 1
+  deleted_at: 2012-06-29 15:03:58
+
+two:
+  number: MyString
+  mileage: 1
+  deleted_at: 2012-06-29 15:03:58
